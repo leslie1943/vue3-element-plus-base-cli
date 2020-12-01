@@ -1,24 +1,30 @@
 # vue3-element-next
 
 ## Project setup
+
+此项目作以下列配置为基础:
+```bash
+    "element-plus": "^1.0.1-beta.0",
+    "vue": "^3.0.0",
+    "vue-class-component": "^8.0.0-0",
+    "vue-router": "^4.0.0-0",
+    "vuex": "^4.0.0-0"
+
+    "typescript": "~3.9.3"
 ```
-npm install
+支持以`tsx`为 `vue` 默认导出文件类型, 搭载最新的`element-plus` UI 框架
+
+## 使用
+```bash
+    git clone https://github.com/leslie1943/vue3-element-plus-base-cli.git
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+```bash
+    npm install
 ```
 
-### Lints and fixes files
-```
-npm run lint
+```bash
+    npm run dev
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+开始你的 `Vue3.0` 和 最新的`Element-UI`的开发之旅吧🙃
