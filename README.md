@@ -1,8 +1,9 @@
 # vue3-element-next
 
-## Project setup
 
-此项目作以下列配置为基础:
+## Project setup
+- 此项目使用脚手架 `npm install -g @vue/cli` or `yarn global add @vue/cli` 的 `vue create <project_name>`命令创建
+- 此项目作以下列配置为基础:
 ```bash
     "element-plus": "^1.0.1-beta.0",
     "vue": "^3.0.0",
